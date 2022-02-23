@@ -7,6 +7,13 @@ This repository has code for an Airline Management System, a Java-based solution
 
 ##  💻  Technologies 
 
-* Backend Technologies: Spring Boot, Spring Data JPA, JUnit testing
-* Frontend Technologies: React, Bootstrap, HTML/CSS/Vanilla JS.
-* Database Management: PostgreSQL
+* **Backend Technologies**: Spring Boot, Spring Data JPA, JUnit testing
+* **Frontend Technologies**: React, Bootstrap, HTML/CSS/Vanilla JS.
+* **Database Management**: PostgreSQL
+
+## For Developers
+
+1. Clone this project. 
+1. Run `npm install` inside the `Frontend` directory of the project. 
+1. Edit `application.properties` inside `FlightManagementSystem/src/main/resources` directory. Put the appropriate datasource URL, username and password.
+1. Run the Spring Boot `FlightManagementSystem` directory, and then run `npm start` for the Frontend directory. The program opens up at http://localhost:3000 address.
