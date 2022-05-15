@@ -8,7 +8,7 @@ This repository has code for an Airline Management System, a Java-based solution
 ##  💻  Technologies 
 
 * **Backend Technologies**: Spring Boot, Spring Data JPA, JUnit testing
-* **Frontend Technologies**: React, Bootstrap, HTML/CSS/Vanilla JS.
+* **Frontend Technologies**: React, Bootstrap, HTML/CSS/JS ES6.
 * **Database Management**: PostgreSQL
 
 ## For Developers
